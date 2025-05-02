@@ -1,6 +1,7 @@
 # Lista de Exercícios — Algoritmos e Estruturas de Dados
 
 Este repositório contém as soluções para a lista de exercícios da disciplina **Algoritmos e Estruturas de Dados** — PUC Minas.
+
 As respostas estão em padrão simplificado devido a entrega da lista ser por correção automática no Verde (sistema de correção da PUC)
 
 Abaixo, um resumo dos exercícios implementados:
