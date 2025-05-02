@@ -6,6 +6,7 @@ As respostas estão em padrão simplificado devido a entrega da lista ser por co
 
 **Implicações**
 > Todas as classes estão criadas no program.cs devido a formatação de correção (o Main também)
+> 
 > Todas as escritas do Console estão resumidas
 
 Abaixo, um resumo dos exercícios implementados:
