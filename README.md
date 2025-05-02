@@ -1,6 +1,6 @@
-# Lista de Exercícios — Algoritmos e Estruturas de Dados
+# Lista de Exercícios — Algoritmos e Estruturas de Dados - Estrutura de dados Lineares
 
-Este repositório contém as soluções para a lista de exercícios da disciplina **Algoritmos e Estruturas de Dados** — PUC Minas.
+Este repositório contém as soluções para a lista de exercícios da disciplina **Algoritmos e Estruturas de Dados - Estrutura de dados Lineares** — PUC Minas.
 
 As respostas estão em padrão simplificado devido a entrega da lista ser por correção automática no Verde (sistema de correção da PUC)
 
@@ -10,6 +10,8 @@ As respostas estão em padrão simplificado devido a entrega da lista ser por co
 > Todas as escritas do Console estão resumidas
 
 Abaixo, um resumo dos exercícios implementados:
+
+PDF da lista: [Lista4_TADsLineares.pdf](https://github.com/user-attachments/files/20017542/Lista4_TADsLineares.pdf)
 
 ---
 
