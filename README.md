@@ -4,6 +4,10 @@ Este repositório contém as soluções para a lista de exercícios da disciplin
 
 As respostas estão em padrão simplificado devido a entrega da lista ser por correção automática no Verde (sistema de correção da PUC)
 
+**Implicações**
+> Todas as classes estão criadas no program.cs devido a formatação de correção (o Main também)
+> Todas as escritas do Console estão resumidas
+
 Abaixo, um resumo dos exercícios implementados:
 
 ---
